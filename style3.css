@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Edu+SA+Beginner&family=REM&family=Roboto:wght@500&display=swap');
+#box{
+    border: solid black 3px;
+    background-color: darksalmon;
+    
+    border-radius: 10%;
+    margin-top: 200px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+h1{
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family: 'Courgette', cursive; 
+}
+p{
+   
+    font-family: 'Courgette', cursive;
+}
+input{
+    width: 200px;
+    height: 30px;
+    border:none ;
+}
+button{
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: darkred;
+}
